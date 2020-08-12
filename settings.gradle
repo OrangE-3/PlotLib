@@ -1,0 +1,3 @@
+include ':plotlib'
+include ':app'
+rootProject.name = "Graph Plotter User"
